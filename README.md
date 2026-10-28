@@ -16,9 +16,13 @@ This fork adds **tamper handling** (keypad enclosure opened or removed) and a Fr
 
 ## Import the blueprint
 
-[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2F%3Cyour-username%3E%2F%3Cyour-repo%3E%2Fblob%2Fmain%2Ffrient_keypad_alarmo_tamper.yaml)
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fraw.githubusercontent.com%2FTyouZ54%2FFrient-Alarmo-Keypad%2Frefs%2Fheads%2Fmain%2Fblueprint_friend_with_tamper.yaml)
 
-> Replace `<your-username>` and `<your-repo>` in the link with your own GitHub account and repository name.
+Or import it manually in Home Assistant (Settings → Automations & Scenes → Blueprints → Import Blueprint) with this URL:
+
+```
+https://raw.githubusercontent.com/TyouZ54/Frient-Alarmo-Keypad/refs/heads/main/blueprint_friend_with_tamper.yaml
+```
 
 Requires Home Assistant **2024.10.0** or newer.
 
@@ -85,9 +89,13 @@ Ce fork ajoute la **gestion du tamper** (ouverture ou arrachement du boîtier du
 
 ## Importer le blueprint
 
-[![Ouvrir votre instance Home Assistant et afficher la fenêtre d'import du blueprint.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2F%3Cyour-username%3E%2F%3Cyour-repo%3E%2Fblob%2Fmain%2Ffrient_keypad_alarmo_tamper.yaml)
+[![Ouvrir votre instance Home Assistant et afficher la fenêtre d'import du blueprint.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fraw.githubusercontent.com%2FTyouZ54%2FFrient-Alarmo-Keypad%2Frefs%2Fheads%2Fmain%2Fblueprint_friend_with_tamper.yaml)
 
-> Remplacez `<your-username>` et `<your-repo>` dans le lien par votre compte GitHub et le nom de votre dépôt.
+Ou importez-le manuellement dans Home Assistant (Paramètres → Automatisations et scènes → Blueprints → Importer un blueprint) avec cette URL :
+
+```
+https://raw.githubusercontent.com/TyouZ54/Frient-Alarmo-Keypad/refs/heads/main/blueprint_friend_with_tamper.yaml
+```
 
 Nécessite Home Assistant **2024.10.0** ou plus récent.
 
